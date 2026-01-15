@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Я, робот",
+    "isbn": "978-5-699-12345-1",
+    "publication_year": 1950,
+    "price": 450.0,
+    "stock_quantity": 10,
+    "language": "Русский",
+    "authors": [
+      "Айзек Азимов"
+    ],
+    "genres": [
+      "Фантастика"
+    ],
+    "publisher": "Эксмо",
+    "reviews_count": 0,
+    "average_rating": 0
+  },
+  {
+    "id": 2,
+    "title": "Чистый код",
+    "isbn": "978-5-4461-1234-5",
+    "publication_year": 2008,
+    "price": 1200.0,
+    "stock_quantity": 4,
+    "language": "Русский",
+    "authors": [
+      "Роберт Мартин"
+    ],
+    "genres": [
+      "Программирование"
+    ],
+    "publisher": "Питер",
+    "reviews_count": 0,
+    "average_rating": 0
+  },
+  {
+    "id": 3,
+    "title": "Приключения Шерлока Холмса",
+    "isbn": "978-5-17-123456-7",
+    "publication_year": 1892,
+    "price": 600.0,
+    "stock_quantity": 8,
+    "language": "Русский",
+    "authors": [
+      "Артур Конан Дойл"
+    ],
+    "genres": [
+      "Детектив"
+    ],
+    "publisher": "АСТ",
+    "reviews_count": 0,
+    "average_rating": 0
+  },
+  {
+    "id": 4,
+    "title": "Война и мир",
+    "isbn": "978-5-04-123456-8",
+    "publication_year": 1869,
+    "price": 800.0,
+    "stock_quantity": 3,
+    "language": "Русский",
+    "authors": [
+      "Лев Толстой"
+    ],
+    "genres": [
+      "Классика"
+    ],
+    "publisher": "Эксмо",
+    "reviews_count": 0,
+    "average_rating": 0
+  },
+  {
+    "id": 5,
+    "title": "7 навыков высокоэффективных людей",
+    "isbn": "978-5-00146-123-4",
+    "publication_year": 1989,
+    "price": 950.0,
+    "stock_quantity": 15,
+    "language": "Русский",
+    "authors": [
+      "Стивен Кови"
+    ],
+    "genres": [
+      "Бизнес"
+    ],
+    "publisher": "Манн, Иванов и Фербер",
+    "reviews_count": 0,
+    "average_rating": 0
+  }
+]

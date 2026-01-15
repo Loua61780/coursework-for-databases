@@ -1,0 +1,6 @@
+id,email,password_hash,first_name,last_name,registration_date,address,phone,role,is_active
+1,admin@library.ru,scrypt:32768:8:1$gPUOa1VtUBumvTPb$eb015b9d55c72cbce3d1dce332a77edc27228608b9c06f758369cd35ddb76ed38a1cbcdc7c22704d682a955489e4b608680ae308ba287bfc6208c7a8349081f2,Админ,Системный,2026-01-09T13:29:45.141710,,,UserRole.ADMIN,True
+2,librarian@library.ru,scrypt:32768:8:1$7YQ0A7qERY2OLKxa$5dc5e72f3c48a10ed88138a6449a81c48c304c8fbc361817c9bce8cf221809421bd5cb26efcbe6732cee30a1bfeee9211313890ee71b0be0673c4e6eb8945790,Мария,Библиотекарь,2026-01-09T13:29:45.141710,,,UserRole.LIBRARIAN,True
+3,user@example.com,scrypt:32768:8:1$dKwTtshgm72weTAU$b26c8c548f1d01097c2d4636ad63762e08177f8323f8a78ea0d0ce2095fa21ccca1180c277d5f85513831494fa64ecfcbdd2bf04e777a7645ed4ec6d3a44d302,Иван,Петров,2026-01-09T13:29:45.141710,,,UserRole.USER,True
+4,lu@gmail.com,scrypt:32768:8:1$aFW3BLhpsvkfJwtQ$f9b06cd840b8a261948d2b4f7b247db5f56a77fea7394b2646b8d12151c4f2755b7c9b21ad3f594dc0cca7cbfe977dc97d172573f10916dbc1cbd51975fc829e,Lu,Iga,2026-01-09T13:32:33.741893,,,UserRole.USER,True
+5,igiraneza@gmail.com,scrypt:32768:8:1$xodFjaF2MWn7BEUu$ca547ef1a98272d70240a8522400a6b63a4ed679d329c9c69a49bd55610d113aed9aae14b40af683b0f3b942a079d183a112a44a6a502039b446443917a01aa5,Луанж,Игиранеза,2026-01-15T10:38:37.497133,,,UserRole.USER,True
